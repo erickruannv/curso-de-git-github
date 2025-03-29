@@ -9,7 +9,7 @@ ___
 ✅ Branches e merge (`git branch`, `git checkout`, `git merge`)  
 ✅ Resolução de conflitos no Git  
 ✅ Trabalho colaborativo no GitHub  
-![Meu Site Pessoal](![git-github-drawio](https://github.com/user-attachments/assets/94797c9a-5d1c-4d99-8592-0d657a6c7c50)
+:camera_flash:![Meu Site Pessoal](![git-github-drawio](https://github.com/user-attachments/assets/94797c9a-5d1c-4d99-8592-0d657a6c7c50)
 )
 
 
